@@ -1,10 +1,10 @@
 # Ferramentas a serem utilizadas:
 
-VS Code;
-ASP.NET (--framework net8.0);
-MySQL (Banco de Dados);
-MySQL Workbench (IDE para desenhar o diagrama das tabelas);
-Inteligência artificial.
+- VS Code;
+- ASP.NET (--framework net8.0);
+- MySQL (Banco de Dados);
+- MySQL Workbench (IDE para desenhar o diagrama das tabelas);
+- Inteligência artificial.
 
 # Critério de avaliação:
 
